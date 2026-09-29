@@ -2,12 +2,6 @@
 
 ## A Personalized Study Planner and Assignment Tracker
 
-| Project detail | Information |
-|---|---|
-| Student | [Your name] |
-| Course / Mentor | [Course name / mentor] |
-| Submission date | [Date] |
-
 ## Project Summary
 
 StudyPath is a responsive web application that helps students organize coursework, deadlines, and study sessions in one private workspace. A signed-in student can create courses and tasks, set due dates and priorities, record study sessions, and review upcoming work on a dashboard. The project will be built with Next.js and React, MongoDB, and authenticated API routes. The first release focuses on an individual planner; collaboration, AI-generated schedules, and institutional integrations are outside the initial scope.
